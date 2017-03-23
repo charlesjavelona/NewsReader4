@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="sheridan.newsreader4.MainActivity">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_toronto"
+            android:title="@string/title_toronto"/>
+        <item
+            android:id="@+id/nav_canada"
+            android:title="@string/title_canada"/>
+        <item
+            android:id="@+id/nav_world"
+            android:title="@string/title_world"/>
+    </group>
+</menu>

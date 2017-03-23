@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News Reader - 4</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="loading">Loading RSS Feed..</string>
+    <string name="items_title">CBC News</string>
+    <string name="item_pub_date">Item Publication Date</string>
+    <string name="item_build_date">Last Build Date</string>
+    <string name="item_title">Item title</string>
+    <string name="item_link">Read more on the web</string>
+
+    <string name="title_toronto">Toronto</string>
+    <string name="title_canada">Canada</string>
+    <string name="title_world">World</string>
+
+</resources>
